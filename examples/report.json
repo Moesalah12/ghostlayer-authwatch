@@ -1,0 +1,30 @@
+{
+  "event_count": 9,
+  "alert_count": 3,
+  "alerts": [
+    {
+      "rule": "repeated_failures",
+      "source_ip": "192.0.2.10",
+      "timestamp": "2026-01-01T12:00:04+00:00",
+      "failure_count": 5,
+      "distinct_users": 1,
+      "severity": "medium"
+    },
+    {
+      "rule": "success_after_failures",
+      "source_ip": "192.0.2.10",
+      "username": "training-admin",
+      "timestamp": "2026-01-01T12:00:06+00:00",
+      "failure_count": 5,
+      "severity": "high"
+    },
+    {
+      "rule": "multiple_accounts_targeted",
+      "source_ip": "198.51.100.20",
+      "timestamp": "2026-01-01T12:01:02+00:00",
+      "failure_count": 3,
+      "distinct_users": 3,
+      "severity": "medium"
+    }
+  ]
+}

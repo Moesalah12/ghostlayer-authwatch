@@ -1,0 +1,9 @@
+{"timestamp": "2026-01-01T12:00:00Z", "source_ip": "192.0.2.10", "username": "training-admin", "outcome": "failure"}
+{"timestamp": "2026-01-01T12:00:01Z", "source_ip": "192.0.2.10", "username": "training-admin", "outcome": "failure"}
+{"timestamp": "2026-01-01T12:00:02Z", "source_ip": "192.0.2.10", "username": "training-admin", "outcome": "failure"}
+{"timestamp": "2026-01-01T12:00:03Z", "source_ip": "192.0.2.10", "username": "training-admin", "outcome": "failure"}
+{"timestamp": "2026-01-01T12:00:04Z", "source_ip": "192.0.2.10", "username": "training-admin", "outcome": "failure"}
+{"timestamp": "2026-01-01T12:00:06Z", "source_ip": "192.0.2.10", "username": "training-admin", "outcome": "success"}
+{"timestamp": "2026-01-01T12:01:00Z", "source_ip": "198.51.100.20", "username": "alpha", "outcome": "failure"}
+{"timestamp": "2026-01-01T12:01:01Z", "source_ip": "198.51.100.20", "username": "bravo", "outcome": "failure"}
+{"timestamp": "2026-01-01T12:01:02Z", "source_ip": "198.51.100.20", "username": "charlie", "outcome": "failure"}
